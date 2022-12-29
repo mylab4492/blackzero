@@ -350,7 +350,49 @@ box-shadow: 0px 2px 6px 0px rgba(230,230,230,1);}
 /*-----------------------------------
     6. Slider 
 -------------------------------------*/
+body{
+background-color:#eef3f4;    
+}
 
+.height-100{
+    height:100vh;
+}
+
+.card{
+    width:380px;
+    border:none;
+    height:280px;
+}
+
+.ratings{
+    margin-right:10px;
+}
+
+.ratings i{
+    
+    color:#cecece;
+    font-size:32px;
+}
+
+.rating-color{
+    color:#fbc634 !important;
+}
+
+.review-count{
+    font-weight:400;
+    margin-bottom:2px;
+    font-size:24px !important;
+}
+
+.small-ratings i{
+  color:#cecece;   
+}
+
+.review-stat{
+    font-weight:300;
+    font-size:18px;
+    margin-bottom:2px;
+}
 /*-----------------------------------
 7. Content 
 -------------------------------------*/
