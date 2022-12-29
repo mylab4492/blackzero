@@ -386,7 +386,8 @@ background-color:#eef3f4;
 }
 
 .small-ratings i{
-  color:#cecece;   
+  color:#cecece;
+  margin-left:5px;
 }
 
 .review-stat{
