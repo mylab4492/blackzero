@@ -359,7 +359,8 @@ background-color:#eef3f4;
 }
 
 .card{
-    width:380px;
+    width:auto;
+	
     border:none;
     height:280px;
 }
