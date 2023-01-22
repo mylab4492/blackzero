@@ -278,7 +278,7 @@ box-shadow: 0px 2px 6px 0px rgba(230,230,230,1);}
 #navigation, #navigation ul, #navigation ul li, #navigation ul li a, #navigation #menu-button { margin: 0; padding: 0; border: 0; list-style: none; line-height: 1; display: block; position: relative; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
 #navigation:after, #navigation > ul:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
 #navigation #menu-button { display: none; }
-#navigation { margin-top: 10px; }
+#navigation { margin-top: 0px; }
 #navigation > ul > li { float: left; }
 #navigation.align-center > ul { font-size: 0; text-align: center; }
 #navigation.align-center > ul > li { display: inline-block; float: none; }
